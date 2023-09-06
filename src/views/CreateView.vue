@@ -49,7 +49,7 @@ const submit = async () => {
 <template>
   <div className="card w-96 bg-base-100 shadow-xl">
     <figure>
-      <img src="../../public/images/55.jpg" alt="fruit" />
+      <img src="/public/images/55.jpg" alt="fruit" />
     </figure>
     <div className="card-body">
       <h2 className="card-title">fruit</h2>
